@@ -8,9 +8,14 @@ which when given a word as input gives out a list of colors related to that word
 We have used JavaScript to fetch the color details from the API mentioned below in json format 
 and displayed them in the form of a masonry grid of color cards using HTML and CSS.
 
+We have also used online free hosting platform InfintyFree https://infinityfree.net to host this web application.</br>
+Link to our web application: http://colourword.rf.gd
+
 ## Source: Color 📖
 
 #### All Color Names 📚
+
+Color Count: 29230
 
 [JSON](https://unpkg.com/color-name-list/dist/colornames.json)
 / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json)
